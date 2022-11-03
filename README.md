@@ -3,7 +3,7 @@ GameSpace is mini application contains entertaining gemes
 made with python using libraries pygame,turtle,tkinter<br /> by 
 - Amal Eltelbany
 - Rehab Mohmmed
-- Tasneem Abd Alrahman
+- Tassnem Abdelrahman
 - Shorouk Sabry
 - Aya ELqadry
 
