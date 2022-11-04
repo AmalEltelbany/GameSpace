@@ -20,4 +20,4 @@ made with python using libraries pygame,turtle,tkinter<br /> by
 
 
 # You can download game and enjoy playing it from this link 😊❤️❤️
-https://drive.google.com/file/d/1aMF1U4yiBG4UVAJNEQVUmIDP_i21he58/view?usp=share_link
+https://drive.google.com/file/d/1HWN7d0UiAxHhUYJ5lH7TLTgCYTyp1rxx/view?usp=sharing
